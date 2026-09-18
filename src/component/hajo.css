@@ -1,0 +1,11 @@
+article{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.hajo{
+    border: 1px solid white;
+}
+.hajo h2{
+    color: aqua;
+}
