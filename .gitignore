@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
+#dist ez nem kell a pages link-hez
 dist-ssr
 *.local
 

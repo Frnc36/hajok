@@ -1,5 +1,3 @@
-import "./hajo.css";
-
 import { type HajoTipus } from "../adat";
 interface HajoProps{
   HAJOM: HajoTipus
